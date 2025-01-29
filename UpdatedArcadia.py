@@ -622,3 +622,4 @@ class Tower:
         travel.travel()
 
 tower = Tower()
+tower.go()
